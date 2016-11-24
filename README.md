@@ -18,3 +18,5 @@ A simple library to intercept calls to libnvram when running embedded linux appl
 [MIPS Instruction Reference](http://www.mrc.uidaho.edu/mrc/people/jff/digital/MIPSir.html)
 
 [MIPS Reference Sheet](https://inst.eecs.berkeley.edu/~cs61c/resources/MIPS_help.html)
+
+[MIPS Assembly Language](http://pages.cs.wisc.edu/~markhill/cs354/Fall2008/notes/MAL.instructions.html)
